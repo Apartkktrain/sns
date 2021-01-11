@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このプロジェクトは、生徒間が安全に利用できる新しい”生徒だけ”のSNSサービスを作るために開発されています。  
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 趣旨
+生徒用にカスタマイズされた安全で楽しい生徒だけのSNS。 Student social networking service 略して SNS.  
+インスタグラムのような写真専門投稿機能やTwitterのように学校での出来事を気軽につぶやくことができるサービスも開発予定です。  
+全ての子供が安心して楽しめるSNSを目指して開発を進めてまいります。
